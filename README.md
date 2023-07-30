@@ -1,14 +1,13 @@
-<h1>Hi, I'm Andrew, an <a href="https://www.linkedin.com/in/andrewrcoleman">IT Professional</a>☺</h1>
+<h1>Hi, I'm Andrew, a <a href="https://www.linkedin.com/in/andrewrcoleman">Cybersecurity Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/andrewrcoleman/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/andrewrcoleman/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/andrewrcoleman/ticket-lifecycle)
+- <b>SIEM using Microsoft Sentinel</b>
+  - [SIEM using Microsoft Sentinel](https://github.com/andrewrcoleman/MicrosoftSentinel/blob/main/README.md)
+ 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/andrewrcoleman/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/andrewrcoleman/azure-network-protocols)
+  - [Creating and Deploying Azure Virtual Machines]([https://github.com/andrewrcoleman/configure-ad](https://github.com/andrewrcoleman/AzureVirtualMachines))
+  
 
 
 
